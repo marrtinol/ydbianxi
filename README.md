@@ -8,8 +8,7 @@ ydbianxi 是一款命令行词义辨析 python 脚本, 抓取网易有道词典�
 克隆项目或者下载项目文件夹, 然后使用 `make` 命令或者以下命令安装
 
 ```
-chmod a+x ydbianxi
-cp ydbianxi /usr/local/bin
+make install
 ```
 
 为方便使用可以用 `alias` 给 `ydbianxi` 起个别名, 如:
